@@ -1,8 +1,0 @@
-{
-  "name": "9omo-ochu Cloudstream Repo",
-  "description": "Cloudstream extensions",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/AC321-beep/Cloudstream-Repo-link/main/plugins.json"
-  ]
-}
