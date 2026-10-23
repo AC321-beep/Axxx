@@ -3,6 +3,6 @@
     "description": "CloudStream plugins by AC321-beep",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/AC321-beep/9omo-ochu/refs/heads/builds/plugins.json"
+        "https://raw.githubusercontent.com/AC321-beep/Axxx/builds/plugins.json"
     ]
 }
