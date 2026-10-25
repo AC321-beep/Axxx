@@ -109,7 +109,7 @@
             "AC321-beep"
         ],
         "description": "Decensored with English-subtitled JAV movies.",
-        "fileSize": 20467,
+        "fileSize": 22606,
         "repositoryUrl": "https://github.com/AC321-beep/Axxx",
         "language": "en",
         "tvTypes": [
@@ -118,6 +118,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=roshy.tv&sz=128",
         "apiVersion": 1,
-        "fileHash": "sha256-24f77127c004c56c0617949a490003cafbf264ed9371aa0c3c059104852c8742"
+        "fileHash": "sha256-1cda450f0656490253b9a7e5c7d7c0acd3748fb1a77b35c8026bf5ba7cccbea6"
     }
 ]
